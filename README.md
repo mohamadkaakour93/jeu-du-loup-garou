@@ -17,7 +17,7 @@ Exemples d'Utilisation
 Python
 
 Voici comment charger les données dans Python à l'aide de la bibliothèque pandas : 
-
+#import de la bibliothèque pandas
 import pandas as pd
 
 # Charger le fichier CSV
