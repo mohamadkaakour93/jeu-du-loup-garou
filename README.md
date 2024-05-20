@@ -2,7 +2,7 @@
 Ce dépôt contient un jeu de données généré pour simuler des interactions dans le jeu de rôle "Loups-Garous". Les données sont annotées manuellement et peuvent être utilisées pour entraîner des modèles de détection de mensonge ou pour des analyses linguistiques. 
 Instructions pour Télécharger les Données
 
-Vous pouvez télécharger les données en cliquant sur le lien suivant : Nom du Fichier CSV.
+Vous pouvez télécharger les données en cliquant sur le lien suivant :conversation_data.csv.
 Structure des Données
 
 Le fichier CSV contient les colonnes suivantes :
